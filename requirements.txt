@@ -3,6 +3,7 @@ pandas
 fpdf
 nltk
 pdfplumber
+pytesseract
 PyPDF2
 reportlab
 scikit-learn
