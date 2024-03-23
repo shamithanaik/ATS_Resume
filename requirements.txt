@@ -1,5 +1,6 @@
 numpy
 pandas
+fpdf
 nltk
 pdfplumber
 PyPDF2
