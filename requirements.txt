@@ -7,4 +7,4 @@ tensorflow
 tensorflow-estimator
 tensorflow-io-gcs-filesystem
 fpdf
-
+reportlab
