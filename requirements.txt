@@ -16,3 +16,5 @@ pdfminer.six
 weasyprint
 matplotlib
 pdfkit
+pango
+pillow
