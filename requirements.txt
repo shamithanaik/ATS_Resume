@@ -9,3 +9,10 @@ tensorflow-io-gcs-filesystem
 fpdf
 nltk
 reportlab
+pdfplumber
+PyPDF2
+pytesseract
+pdfminer.six
+weasyprint
+matplotlib
+pdfkit
